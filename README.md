@@ -8,6 +8,7 @@
 
 <div style="display: flex, height:180px">
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=alenjb&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Cobin's github stats" />
+<img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alenjb" alt="Cobin's github stats" />
 <!-- <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenjb&layout=compact&theme=nord&hide_border=true" />
 </div> -->
 <br />
