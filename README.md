@@ -34,8 +34,9 @@
 ---
 ### Connect with me:
 
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-2088FF?style=flat&logo=linkedin&logoColor=white" />
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@cobin_dev/series)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2088FF?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/정빈-이-23b27a301)
+
 <!-- [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube] -->
 
 
