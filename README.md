@@ -4,7 +4,7 @@
 ### 🌈 Welcome to Cobin_dev 👋 
 
 - 🌱 I’m currently interested in `JAVA`, `SPRING BOOT`
-- 🥅 2024 Goals : Completing the [Hackok](https://github.com/alenjb/project_Hackok) Project.
+- 🥅 2025 Goals : Completing the [Hackok](https://github.com/alenjb/project_Hackok) Project.
 
 <div style="display: flex, height:180px">
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=alenjb&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Cobin's github stats" />
